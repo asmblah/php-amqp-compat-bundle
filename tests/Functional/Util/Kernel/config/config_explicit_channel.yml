@@ -1,0 +1,6 @@
+framework:
+    test: true
+
+php_amqp_compat:
+    logger:
+        channel: my_channel
