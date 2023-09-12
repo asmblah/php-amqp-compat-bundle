@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b3fc7c971ac3a7d26b54ae8c322d7db7",
+    "content-hash": "d04bc0eb41e94d6e219b71484db3a042",
     "packages": [
         {
             "name": "asmblah/php-amqp-compat",
-            "version": "v0.3.0",
+            "version": "v0.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/asmblah/php-amqp-compat.git",
-                "reference": "eec91a69ddf45ba113d4be7ebfa520acefe1759e"
+                "reference": "c11c7292d510d24e763e8cb9e862b8e4d2705ce2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/asmblah/php-amqp-compat/zipball/eec91a69ddf45ba113d4be7ebfa520acefe1759e",
-                "reference": "eec91a69ddf45ba113d4be7ebfa520acefe1759e",
+                "url": "https://api.github.com/repos/asmblah/php-amqp-compat/zipball/c11c7292d510d24e763e8cb9e862b8e4d2705ce2",
+                "reference": "c11c7292d510d24e763e8cb9e862b8e4d2705ce2",
                 "shasum": ""
             },
             "require": {
@@ -50,9 +50,9 @@
             ],
             "support": {
                 "issues": "https://github.com/asmblah/php-amqp-compat/issues",
-                "source": "https://github.com/asmblah/php-amqp-compat/tree/v0.3.0"
+                "source": "https://github.com/asmblah/php-amqp-compat/tree/v0.3.1"
             },
-            "time": "2023-09-01T09:50:01+00:00"
+            "time": "2023-09-12T09:00:14+00:00"
         },
         {
             "name": "paragonie/constant_time_encoding",
@@ -3326,16 +3326,16 @@
         },
         {
             "name": "sebastian/exporter",
-            "version": "5.0.0",
+            "version": "5.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/exporter.git",
-                "reference": "f3ec4bf931c0b31e5b413f5b4fc970a7d03338c0"
+                "reference": "32ff03d078fed1279c4ec9a407d08c5e9febb480"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/f3ec4bf931c0b31e5b413f5b4fc970a7d03338c0",
-                "reference": "f3ec4bf931c0b31e5b413f5b4fc970a7d03338c0",
+                "url": "https://api.github.com/repos/sebastianbergmann/exporter/zipball/32ff03d078fed1279c4ec9a407d08c5e9febb480",
+                "reference": "32ff03d078fed1279c4ec9a407d08c5e9febb480",
                 "shasum": ""
             },
             "require": {
@@ -3391,7 +3391,8 @@
             ],
             "support": {
                 "issues": "https://github.com/sebastianbergmann/exporter/issues",
-                "source": "https://github.com/sebastianbergmann/exporter/tree/5.0.0"
+                "security": "https://github.com/sebastianbergmann/exporter/security/policy",
+                "source": "https://github.com/sebastianbergmann/exporter/tree/5.0.1"
             },
             "funding": [
                 {
@@ -3399,7 +3400,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-02-03T07:06:49+00:00"
+            "time": "2023-09-08T04:46:58+00:00"
         },
         {
             "name": "sebastian/global-state",
