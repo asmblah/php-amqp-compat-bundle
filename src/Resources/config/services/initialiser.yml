@@ -1,0 +1,9 @@
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: false
+
+    Asmblah\PhpAmqpCompatBundle\Package\Initialiser:
+        # Will be configured by PhpAmqpCompatExtension.
+        public: true

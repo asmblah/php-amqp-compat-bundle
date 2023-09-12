@@ -1,0 +1,4 @@
+framework:
+    test: true
+
+# (PHP AMQP-Compat is not configured.)
